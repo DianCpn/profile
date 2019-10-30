@@ -51,6 +51,9 @@ a:hover {
 
 .img-circle {
   border-radius: 50%;
+  object-fit: cover;
+  height: 100px;
+  object-position: top;
 }
 
 .btn-pastel-pink {
